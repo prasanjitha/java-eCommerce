@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="375617ad-ee98-4e77-a7fb-3398cf80f59d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/list/m1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/list/m2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/list/m3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/list/m4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/list/m5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/list/m6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/AddOrdersSystem/firestore_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/AddOrdersSystem/model/note.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/AddOrdersSystem/orderOperations/add_order.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/AddOrdersSystem/orderOperations/home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/AddOrdersSystem/orderOperations/note_details.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/itemStore/itemStoreHome.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mainHomePage/MainPages/CartPageTabBar/tabBarCart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mainHomePage/urlLaunch/appDetails.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/q&amp;a/questionAndAnswer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Address/addAddress.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Address/addAddress.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Address/address.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Address/address.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Admin/adminLogin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Admin/adminLogin.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Admin/adminOrderCard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Admin/adminOrderCard.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Admin/adminOrderDetails.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Admin/adminOrderDetails.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Admin/adminShiftOrders.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Admin/adminShiftOrders.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Admin/uploadItems.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Admin/uploadItems.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Authentication/authenication.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Authentication/authenication.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Authentication/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Authentication/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Authentication/register.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Authentication/register.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Models/item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Models/item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Orders/OrderDetailsPage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Orders/OrderDetailsPage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Orders/myOrders.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Orders/myOrders.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Orders/placeOrderPayment.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Orders/placeOrderPayment.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Store/Search.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Store/Search.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Store/cart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Store/cart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Store/product_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Store/product_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Store/storehome.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Store/storehome.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Widgets/customAppBar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Widgets/customAppBar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Widgets/myDrawer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Widgets/myDrawer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Widgets/orderCard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Widgets/orderCard.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Widgets/searchBox.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Widgets/searchBox.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mainHomePage/MainPages/AlertDialogBox/ChooseOption.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mainHomePage/MainPages/AlertDialogBox/ChooseOption.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mainHomePage/MainPages/BitOrders/addOrders.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mainHomePage/MainPages/BitOrders/viewOrders.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mainHomePage/MainPages/TopProducts.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mainHomePage/MainPages/TopProducts.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mainHomePage/MainPages/buyerHome.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mainHomePage/MainPages/buyerHome.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mainHomePage/MainPages/myCart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mainHomePage/MainPages/myCart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mainHomePage/MainPages/popularVegiAndFruits.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mainHomePage/MainPages/sellerUploadItems.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mainHomePage/MainPages/sellerUploadItems.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mainHomePage/bigOrders.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mainHomePage/mainHomePage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mainHomePage/mainHomePage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5_API_25" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/mainHomePage/MainPages/buyerHome.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3500">
+              <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/testing DB/pages/add_info.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Authentication/register.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="202" column="51" selection-start-line="202" selection-start-column="33" selection-end-line="202" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="47" column="18" lean-forward="true" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Admin/adminLogin.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Admin/uploadItems.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2513">
+              <caret line="67" column="8" lean-forward="true" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Config/config.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/itemStore/itemStoreHome.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MainHomePage</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/mainHomePage/MainPages/home.dart" />
+        <option value="$PROJECT_DIR$/lib/mainHomePage/MainPages/popularVegiAndFruits.dart" />
+        <option value="$PROJECT_DIR$/lib/mainHomePage/bigOrders.dart" />
+        <option value="$PROJECT_DIR$/lib/Models/address.dart" />
+        <option value="$PROJECT_DIR$/lib/Models/addOrder.dart" />
+        <option value="$PROJECT_DIR$/lib/Counters/AddressChanders.dart" />
+        <option value="$PROJECT_DIR$/lib/Counters/changesAddress.dart" />
+        <option value="$PROJECT_DIR$/lib/Config/config.dart" />
+        <option value="$PROJECT_DIR$/lib/ByuerCart/model/product.dart" />
+        <option value="$PROJECT_DIR$/lib/ByuerCart/entity/cart.dart" />
+        <option value="$PROJECT_DIR$/lib/ByuerCart/dap/CartDAO.dart" />
+        <option value="$PROJECT_DIR$/lib/Widgets/customAppBar.dart" />
+        <option value="$PROJECT_DIR$/lib/Authentication/login.dart" />
+        <option value="$PROJECT_DIR$/lib/Authentication/register.dart" />
+        <option value="$PROJECT_DIR$/lib/mainHomePage/MainPages/BitOrders/viewOrders.dart" />
+        <option value="$PROJECT_DIR$/lib/mainHomePage/MainPages/BitOrders/addOrders.dart" />
+        <option value="$PROJECT_DIR$/lib/Admin/adminOrderCard.dart" />
+        <option value="$PROJECT_DIR$/lib/Admin/adminShiftOrders.dart" />
+        <option value="$PROJECT_DIR$/lib/mainHomePage/MainPages/sellerUploadItems.dart" />
+        <option value="$PROJECT_DIR$/lib/Models/item.dart" />
+        <option value="$PROJECT_DIR$/lib/Store/product_page.dart" />
+        <option value="$PROJECT_DIR$/lib/mainHomePage/MainPages/myCart.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/lib/mainHomePage/urlLaunch/appDetails.dart" />
+        <option value="$PROJECT_DIR$/lib/mainHomePage/MainPages/TopProducts.dart" />
+        <option value="$PROJECT_DIR$/lib/Admin/adminOrderDetails.dart" />
+        <option value="$PROJECT_DIR$/lib/Address/addAddress.dart" />
+        <option value="$PROJECT_DIR$/lib/Address/address.dart" />
+        <option value="$PROJECT_DIR$/lib/mainHomePage/mainHomePage.dart" />
+        <option value="$PROJECT_DIR$/lib/mainHomePage/MainPages/CartPageTabBar/tabBarCart.dart" />
+        <option value="$PROJECT_DIR$/lib/Store/cart.dart" />
+        <option value="
