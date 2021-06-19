@@ -1,64 +1,27 @@
 package com.example.e_commerce;
-
-import android.content.Intent;
 import android.os.Bundle;
-
-import com.example.e_commerce.buyer.buyerHome;
-import com.example.e_commerce.store.storeHome;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
-
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
 
-import android.view.View;
-import android.widget.Button;
+import com.denzcoskun.imageslider.ImageSlider;
+import com.denzcoskun.imageslider.models.SlideModel;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class home extends AppCompatActivity {
-    private Button button;
-    private Button button1;
-    private Button button2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-        button =findViewById(R.id.button);
-        button1 =findViewById(R.id.button1);
-        button2 = findViewById(R.id.button2);
-        button.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-                openLogin();
-            }
-        });
-        button1.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
+        ImageSlider imageSlider=findViewById(R.id.image_slider);
 
-                openStore();
+        List<SlideModel> slideModels=new ArrayList<>();
 
-            }
-        });
-        button2.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-
-                openBuyer();
-            }
-        });
-
-    }
-    public void openLogin(){
-        Intent intent=new Intent(this, MainActivity.class);
-        startActivity(intent);
-    }
-    public void openStore(){
-        Intent intent=new Intent(this, storeHome.class);
-        startActivity(intent);
-    }
-    public void openBuyer(){
-        Intent intent=new Intent(this, buyerHome.class);
-        startActivity(intent);
+        slideModels.add(new SlideModel("https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg","Phone"));
+        slideModels.add(new SlideModel("https://picsum.photos/id/894/300/200","Com"));
+        slideModels.add(new SlideModel("https://picsum.photos/id/892/300/200","Image 3"));
+        slideModels.add(new SlideModel("https://picsum.photos/id/891/300/200","Image 4"));
+        imageSlider.setImageList(slideModels,true);
     }
 }
